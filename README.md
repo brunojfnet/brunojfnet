@@ -55,6 +55,7 @@ Tenho experiência com **C#**, **integrações via API**, **infraestrutura de re
   <img align="center" alt="Hostinger" height="30" width="30" src="https://cdn.brandfetch.io/idc4D4ETwV/w/1000/h/1000/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B">
   <img align="center" alt="Hostone" height="30" width="40" src="https://ajuda.hostone.com.br/wp-content/uploads/2020/07/cropped-base_host_oneArtboard-1.png">
   <img align="center" alt="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.brandfetch.io/idnq7H7qT0/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B">
 </div>
 
 ---
